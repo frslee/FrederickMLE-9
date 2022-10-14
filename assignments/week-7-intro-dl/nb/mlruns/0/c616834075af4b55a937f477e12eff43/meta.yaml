@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/f/4b/code/FrederickMLE-9/assignments/week-7-intro-dl/nb/mlruns/0/c616834075af4b55a937f477e12eff43/artifacts
+end_time: 1664821264311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c616834075af4b55a937f477e12eff43
+run_uuid: c616834075af4b55a937f477e12eff43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664821259403
+status: 3
+tags: []
+user_id: fslee
